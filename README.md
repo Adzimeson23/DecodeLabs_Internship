@@ -66,5 +66,5 @@ Role: Data Analytics Intern
 Project: E-commerce Data Analysis
 
 Author
-Fayvor Axeemeson
-Aspiring Data Analyst
+Favour Adzimeson Victor
+
