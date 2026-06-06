@@ -1,11 +1,11 @@
 # DecodeLabs_Internship
  E-commerce Data Analysis Project
 
-Project Overview
+#Project Overview
 
 This repository contains my internship project completed during the DecodeLabs Data Analytics Internship Program. The project focuses on analyzing an e-commerce dataset to uncover business insights, customer behavior patterns, sales trends, and key performance indicators.
 
-Objectives
+## Objectives
 	•	Clean and prepare raw data for analysis.
 	•	Perform exploratory data analysis (EDA).
 	•	Identify sales trends and customer purchasing patterns.
@@ -13,14 +13,13 @@ Objectives
 	•	Generate actionable business insights.
 	•	Create interactive dashboards for data visualization.
 
-Tools & Technologies
+## Tools & Technologies
 	•	Microsoft Excel
 	•	Power BI
 	•	SQL
 	•	GitHub
 
-Project Tasks
-
+## Project Tasks
 Data Cleaning
 	•	Removed duplicates
 	•	Handled missing values
@@ -42,8 +41,7 @@ Outlier Detection
 	•	Identified unusual sales transactions
 	•	Investigated extreme values affecting analysis
 
-Dashboard Development
-
+## Dashboard Development
 Created an interactive Power BI dashboard displaying:
 	•	Total Sales
 	•	Revenue Trends
@@ -51,7 +49,7 @@ Created an interactive Power BI dashboard displaying:
 	•	Customer Insights
 	•	Key Business Metrics
 
-Key Insights
+## Key Insights
 	•	Identified top-performing products and categories.
 	•	Analyzed customer purchasing behavior.
 	•	Discovered sales patterns and seasonal trends.
@@ -67,4 +65,6 @@ Project: E-commerce Data Analysis
 
 Author
 Favour Adzimeson Victor
+## Dashboard Preview
 
+![E-commerce Dashboard](decodelabs_project.png)
